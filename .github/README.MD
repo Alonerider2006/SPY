@@ -25,11 +25,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [SPY_SIR_LOVER](http
 
 ## How To Deploy
 
-<p align="center">
-<a href="https://youtu.be/rCVMMiMYywk"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a> </a>                     
-</p>
-
-<p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
@@ -149,10 +144,6 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/Abishnoi69" alt="Abishnoi69"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
-
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
-
-➥ [𝐁ʟᴀᴄᴋ ʙᴜʟʟs] × <a href="https://github.com/Black-Bulls-Bots/zerotwobot" alt="Black-Bulls-Bots"> <img src="https://img.shields.io/badge/BlackBullsBots-90302f?logo=github" /></a>  
+➥ [spy] × <a href="https://t.me/spyofficial99" /></a>  
 
 ━━━━━━━━━━━━━━━━━━━━
