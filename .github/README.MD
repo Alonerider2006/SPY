@@ -1,18 +1,18 @@
 
 <h2 align="center">
-    ──「 ʀᴏᴄᴋʏ ᴄᴇᴏ 」──
+    ──「 SPY OFFICIAL 」──
 </h2>
 
 FULL KANG OF EXON ROBOT
-ALL CREDITS TO [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂](https://github.com/Abishnoi69)
+ALL CREDITS TO [spy](https://github.com/Alonerider2006)
 AND TEAM
 
-THIS IS KANGED AND IMPORTED FOR YOUTUBE VIDEO
+THIS IS MADE AND IMPORTED FOR TELEGRAM
 ALL CREDITS TO RESPECTIVE OWNERS
 
 ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄᴇᴏ](https://t.me/MKN_GROUPMANAGE_ROBOT)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [SPY_SIR_LOVER](https://t.me/spy_lover_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center"> 
     𝗚𝗥𝗢𝗨𝗣  𝗠𝗔𝗡𝗔𝗚𝗘𝗥    
@@ -66,7 +66,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄ�
 - `git clone https://github.com/Itz-JEOL/ROCKY`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
-- `cd ROCKYt`
+- `cd SPYOFFICIAL`
 
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
 - `pip3 install -U -r requirements.txt`
